@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title">Quiz App</string>
+    <string name="highScore">High Score\n%1$d</string>
+    <string name="startButton">Start Game</string>
+    <string name="quitButton">Quit</string>
+    <string name="goBackButton">Main Menu</string>
+    <string name="scoreText">SCORE\n%1$d</string>
+    <string name="timeRemaining">Time Remaining: %1$d</string>
+    <string name="inGameScore">Score: %1$d</string>
+</resources>
